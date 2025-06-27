@@ -1,1 +1,1 @@
-Please start working on the next task mentioned by task master
+Please start working on the next task mentioned by task master. Always read the prd present in .taskmaster/docs/prd.txt to understand the business context.
